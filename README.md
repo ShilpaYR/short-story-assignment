@@ -54,6 +54,8 @@ Course topic spreadsheet entry | ✅ Added | [View Spreadsheet Entry](https://do
 | 5 | Reproduction experiment (AutoResearch template) | ✅ Complete | [`/autoresearch`](./autoresearch) |
 | 6 | Assignment report (PDF) | ✅ Included | [`Short_Story_Report_Final.pdf`](https://github.com/ShilpaYR/short-story-assignment/blob/main/Short_Story_Report_Final.pdf) |
 | 7 | Public GitHub repository with README | ✅ This file | — |
+| 8 | Course topic spreadsheet entry | ✅ Added | [View Spreadsheet Entry](https://docs.google.com/spreadsheets/d/16bqZjqizuZRjXG7AQvdoCDZrlR-sbLeefJgTBIgdgO8/edit?usp=sharing) |
+| 9 | SlideShare presentation | ✅ Published | [https://www.slideshare.net/slideshow/efficient-diffusion-models-a-survey-deep-learning-short-story-assignment/287487936] |
 
 ---
 
