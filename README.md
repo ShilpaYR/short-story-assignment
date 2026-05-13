@@ -46,7 +46,7 @@ The article and presentation were reviewed by classmate:Nitish Chowdary to ensur
 |---|-------------|--------|------|
 | 1 | Medium article (written from scratch) | ✅ Published | [Read on Medium](https://medium.com/@shilpa.yelkurramakrishnaiah/efficient-diffusion-models-how-generative-ai-became-faster-cheaper-and-more-practical-d55ae6a48b37) |
 | 2 | Slide deck (PPTX) | ✅ Uploaded | [`Efficient_Diffusion_Models_v4 _Presentation.pptx`](https://github.com/ShilpaYR/short-story-assignment/blob/main/Efficient_Diffusion_Models_v4%20_Presentation.pptx) |
-| 3 | YouTube video #1 (paper walkthrough) | ✅ Published | [Watch on YouTube](https://youtu.be/iR-XeBP9e5E) |
+| 3 | YouTube video #1 (presentation) | ✅ Published | [Watch on YouTube](https://youtu.be/iR-XeBP9e5E) |
 | 4 | YouTube video #2 (presentation) | ✅ Published | [Watch on YouTube](https://youtu.be/f2UQirMgUd4) |
 | 5 | Reproduction experiment (AutoResearch template) | ✅ Complete | [`/autoresearch`](./autoresearch) |
 | 6 | Assignment report (PDF) | ✅ Included | [`Short_Story_Report_Final.pdf`](https://github.com/ShilpaYR/short-story-assignment/blob/main/Short_Story_Report_Final.pdf) |
