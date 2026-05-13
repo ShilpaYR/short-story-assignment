@@ -1,4 +1,4 @@
-# 📘 Short Story Assignment — Efficient Diffusion Models
+# Short Story Assignment — Efficient Diffusion Models
 
 **Course:** Deep Learning
 **Student:** Shilpa Yelkur Ramakrishnaiah | GitHub: [@ShilpaYR](https://github.com/ShilpaYR)
