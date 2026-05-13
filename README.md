@@ -38,9 +38,6 @@ The paper reviews 200+ methods across algorithm-level, system-level, and framewo
 
 The article and presentation were reviewed by classmate:Nitish Chowdary to ensure clarity and accessibility for readers unfamiliar with diffusion models.
 
-## Spreadsheet
-Course topic spreadsheet entry | ✅ Added | [View Spreadsheet Entry](https://docs.google.com/spreadsheets/d/16bqZjqizuZRjXG7AQvdoCDZrlR-sbLeefJgTBIgdgO8/edit?usp=sharing) |
-
 ---
 
 ## ✅ Deliverables Checklist
