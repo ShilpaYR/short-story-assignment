@@ -34,6 +34,10 @@ The selected survey paper is:
 
 The paper reviews 200+ methods across algorithm-level, system-level, and framework-level optimization of diffusion-based generative models, covering image, video, audio, and medical imaging modalities.
 
+## Peer Review
+
+The article and presentation were reviewed by classmate:Nitish Chowdary to ensure clarity and accessibility for readers unfamiliar with diffusion models.
+
 ---
 
 ## ✅ Deliverables Checklist
